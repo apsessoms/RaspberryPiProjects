@@ -52,3 +52,5 @@ Run the program and try to change the card's suit to something other than a vali
 **You should be seeing the error message we created while defining the setter in the previous steps. "That's not a suit!"**
 
 ![Alt text](image-7.png)
+
+
